@@ -89,9 +89,9 @@ HTML • CSS • JavaScript • Node.js • MongoDB • EJS
 
 # 📊 GitHub Stats
 
-![Jeevan GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevan400&show_icons=true&theme=radical)
+![Jeevan GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeevan400&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan400&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeevan400&layout=compact&theme=radical)
 
 ---
 
