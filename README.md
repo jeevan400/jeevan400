@@ -1,16 +1,129 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeevan
 
-<!--
-**jeevan400/jeevan400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=200\&section=header\&text=Jeevan%20Kumar\&fontSize=40\&fontColor=ffffff)
 
-Here are some ideas to get you started:
+💻 **Full Stack Web Developer (MERN Stack)**
+🎓 B.Tech Computer Science Student
+🚀 Passionate about building **real-time web applications and scalable backend systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and building projects using **Node.js, Express.js, MongoDB, React, and WebRTC**.
+
+---
+
+# 🚀 About Me
+
+* 🎓 B.Tech in Computer Science and Engineering
+* 💻 MERN Stack Developer
+* 🧠 Currently learning **Data Structures & Algorithms with Java**
+* 🔥 Building real-world projects like **Video Conferencing App (Vidora)**
+* 📚 Always learning new technologies
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge)
+
+---
+
+# 📌 Featured Projects
+
+### 📹 Vidora – Video Conferencing Application
+
+Real-time video meeting application built using **WebRTC and Socket.io**.
+
+Features:
+
+* Real-time video calling
+* Multiple participants
+* Chat functionality
+* Screen sharing
+* WebRTC peer connection
+
+Tech Stack:
+Node.js • Express.js • React • WebRTC • Socket.io
+
+---
+
+### 🛒 Priji Mart – E-commerce Website
+
+Full-stack e-commerce platform where users can browse products and manage accounts.
+
+Features:
+
+* User authentication
+* Product listing
+* Shopping cart
+* Responsive design
+
+Tech Stack:
+HTML • CSS • JavaScript • Node.js • MongoDB
+
+---
+
+### 🍔 Food Delivery Website
+
+Online food ordering platform with dynamic UI and backend integration.
+
+Features:
+
+* Restaurant listing
+* Order management
+* User authentication
+
+Tech Stack:
+React • Node.js • MongoDB
+
+---
+
+# 📊 GitHub Stats
+
+![Jeevan GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=radical)
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/jeevan-kumar-057315264/)
+📧 Email: [your-email@gmail.com](jeevankumarsarkaghat@gmail.com)
+🌍 Portfolio: https://jeevancodes.netlify.app
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
