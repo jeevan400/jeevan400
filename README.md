@@ -33,6 +33,7 @@ Currently learning and building projects using **Node.js, Express.js, MongoDB, R
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind-61dafb?style=for-the-badge)
 
 ### Backend
 
@@ -87,43 +88,28 @@ HTML • CSS • JavaScript • Node.js • MongoDB
 
 ---
 
-### 🍔 Food Delivery Website
-
-Online food ordering platform with dynamic UI and backend integration.
-
-Features:
-
-* Restaurant listing
-* Order management
-* User authentication
-
-Tech Stack:
-React • Node.js • MongoDB
-
----
-
 # 📊 GitHub Stats
 
-![Jeevan GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Jeevan GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevan400\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan400\&layout=compact\&theme=radical)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeevan400\&theme=radical)
 
 ---
 
 # 🌐 Connect With Me
 
-💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/jeevan-kumar-057315264/)
-📧 Email: [your-email@gmail.com](jeevankumarsarkaghat@gmail.com)
-🌍 Portfolio: https://jeevancodes.netlify.app
+💼 LinkedIn: [Jeevan_Kumar](https://www.linkedin.com/in/jeevan-kumar-057315264/)
+📧 Email: [jeevankumarsarkaghat@gmail.com](jeevankumarsarkaghat@gmail.com)
+🌍 Portfolio: [jeevancodes](https://jeevancodes.netlify.app)
 
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=jeevan400\&color=blue)
