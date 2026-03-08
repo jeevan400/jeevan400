@@ -72,19 +72,18 @@ Node.js • Express.js • React • WebRTC • Socket.io
 
 ---
 
-### 🛒 Priji Mart – E-commerce Website
+### ✈️ TripNest – Travel Booking Platform
 
-Full-stack e-commerce platform where users can browse products and manage accounts.
+A modern travel booking web application that allows users to explore destinations and plan trips.
 
-Features:
+* Secure authentication
+* Destination browsing and booking system
 
-* User authentication
-* Product listing
-* Shopping cart
-* Responsive design
+🔗 **Live Demo:** https://tripnest-mxpc.onrender.com/listings
+📂 **GitHub Repo:** https://github.com/jeevan400/tripnest
 
 Tech Stack:
-HTML • CSS • JavaScript • Node.js • MongoDB
+HTML • CSS • JavaScript • Node.js • MongoDB • EJS
 
 ---
 
