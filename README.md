@@ -193,13 +193,7 @@ Follow me on GitHub to stay updated!
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeevan400/jeevan400/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeevan400/jeevan400/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jeevan400/jeevan400/output/github-snake.svg">
-</picture>
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 > ⚠️ The snake animation requires a one-time GitHub Actions setup. See setup instructions below ↓
