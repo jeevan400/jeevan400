@@ -196,8 +196,6 @@ Follow me on GitHub to stay updated!
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-> ⚠️ The snake animation requires a one-time GitHub Actions setup. See setup instructions below ↓
-
 <details>
 <summary>🔧 Click to set up the snake animation</summary>
 
