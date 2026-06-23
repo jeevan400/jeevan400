@@ -31,7 +31,7 @@ location   : India 🇮🇳
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeevan400&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=jeevan400&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
