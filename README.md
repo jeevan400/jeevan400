@@ -14,18 +14,27 @@
 <br/>
 
 ### 👨‍💻 About Me
-- 💻 **MERN Stack Developer** with a passion for scalable architectures.
-- 🎓 **B.Tech Computer Engineering** graduate.
-- 🏢 Experienced in delivering real-world client solutions.
-- 🌐 Focused on clean UI and high-performance web apps.
 
----
+<p align="center">
+  <img src="./assets/jcode-about-1.svg" width="390" alt="MERN Stack Developer" />
+  <img src="./assets/jcode-about-2.svg" width="390" alt="Computer Engineering Grad" />
+  <img src="./assets/jcode-about-3.svg" width="390" alt="Client Projects" />
+  <img src="./assets/jcode-about-4.svg" width="390" alt="High Performance Apps" />
+</p>
+
+<div align="center">
+  <img src="./assets/jcode-divider.svg" width="100%" alt="divider" />
+</div>
 
 ### 🚀 Current Focus
-- 🛠️ Building full-stack client web projects.
-- ⚡ Mastering real-time communication (Socket.io, WebRTC).
-- 🧠 Deep diving into Data Structures & Algorithms.
-- 🐳 Learning Docker & Containerization.
+*<small>● Currently Learning & Building</small>*
+
+<p align="center">
+  <img src="./assets/jcode-focus-1.svg" width="390" alt="Full-Stack Projects" />
+  <img src="./assets/jcode-focus-2.svg" width="390" alt="Real-Time Comm" />
+  <img src="./assets/jcode-focus-3.svg" width="390" alt="DSA" />
+  <img src="./assets/jcode-focus-4.svg" width="390" alt="Docker" />
+</p>
 
 <br/>
 

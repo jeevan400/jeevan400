@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 40" width="100%">
+  <defs>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur" /><feComposite in="SourceGraphic" in2="blur" operator="over" /></filter>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1677FF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#1677FF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#1677FF" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect x="100" y="19" width="600" height="2" fill="url(#lineGrad)" />
+  <circle cx="400" cy="20" r="5" fill="#3B8EFF" filter="url(#glow)"><animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite" /></circle>
+  <circle cx="400" cy="20" r="2" fill="#FFFFFF" />
+</svg>

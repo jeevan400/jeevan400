@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 120" width="100%">
+  <defs>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur" /><feComposite in="SourceGraphic" in2="blur" operator="over" /></filter>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1677FF" stop-opacity="0.6"><animate attributeName="stop-color" values="#1677FF;#0B5ED7;#3B8EFF;#1677FF" dur="6s" repeatCount="indefinite" /></stop>
+      <stop offset="100%" stop-color="#0E1622" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="390" height="120" fill="#0E1622" rx="10" />
+  <rect width="388" height="118" x="1" y="1" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" rx="10" />
+  <text x="25" y="45" fill="#3B8EFF" font-family="monospace" font-size="24" font-weight="bold" filter="url(#glow)">&lt; /&gt;</text>
+  <text x="25" y="75" fill="#F5F7FA" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-size="16" font-weight="600">MERN Stack Developer</text>
+  <text x="25" y="98" fill="#A8B0BC" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-size="13">Building modern full-stack web applications.</text>
+  <circle cx="365" cy="25" r="3" fill="#1677FF" opacity="0.3"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite" /></circle>
+</svg>
