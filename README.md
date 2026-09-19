@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1677FF&height=250&section=header&text=Jeevan%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20&descColor=F5F7FA" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Jeevan%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20&descColor=F5F7FA" width="100%" alt="Header" />
 
   <p align="center">
-    <i>Architecting scalable backends and crafting real-time digital experiences.</i>
+    <i>Architecting scalable backends and crafting real-time digital experiences 🚀</i>
   </p>
 
   <p align="center">
-    <a href="https://jeevancodes.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D131D?style=for-the-badge&logo=vercel&logoColor=1677FF" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/jeevan-kumar-057315264/"><img src="https://img.shields.io/badge/LinkedIn-0D131D?style=for-the-badge&logo=linkedin&logoColor=1677FF" alt="LinkedIn" /></a>
-    <a href="https://github.com/jeevan400"><img src="https://img.shields.io/badge/GitHub-0D131D?style=for-the-badge&logo=github&logoColor=1677FF" alt="GitHub" /></a>
-    <a href="mailto:jeevankumarsarkaghat@gmail.com"><img src="https://img.shields.io/badge/Email-0D131D?style=for-the-badge&logo=gmail&logoColor=1677FF" alt="Email" /></a>
+    <a href="https://jeevancodes.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/jeevan-kumar-057315264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/jeevan400"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:jeevankumarsarkaghat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -45,43 +45,43 @@
 <details open>
   <summary><b>🌐 Frontend & UI</b></summary>
   <br/>
-  <img src="https://img.shields.io/badge/React.js-070B12?style=flat-square&logo=react&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/JavaScript-070B12?style=flat-square&logo=javascript&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-070B12?style=flat-square&logo=tailwind-css&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/HTML5-070B12?style=flat-square&logo=html5&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/CSS3-070B12?style=flat-square&logo=css3&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/Bootstrap-070B12?style=flat-square&logo=bootstrap&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/Material_UI-070B12?style=flat-square&logo=mui&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/EJS-070B12?style=flat-square&logo=ejs&logoColor=1677FF" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black" />
 </details>
 
 <details open>
   <summary><b>⚙️ Backend, Real-Time & Databases</b></summary>
   <br/>
-  <img src="https://img.shields.io/badge/Node.js-070B12?style=flat-square&logo=node.js&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/Express.js-070B12?style=flat-square&logo=express&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/MongoDB-070B12?style=flat-square&logo=mongodb&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/Mongoose-070B12?style=flat-square&logo=mongoose&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/MySQL-070B12?style=flat-square&logo=mysql&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/Socket.io-070B12?style=flat-square&logo=socket.io&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/WebRTC-070B12?style=flat-square&logo=webrtc&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/REST_APIs-070B12?style=flat-square&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/JWT_Auth-070B12?style=flat-square&logo=jsonwebtokens&logoColor=1677FF" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </details>
 
 <details open>
   <summary><b>🛠️ Tools, Platforms & Languages</b></summary>
   <br/>
-  <img src="https://img.shields.io/badge/Java-070B12?style=flat-square&logo=openjdk&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/C++-070B12?style=flat-square&logo=c%2B%2B&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/Git-070B12?style=flat-square&logo=git&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/GitHub-070B12?style=flat-square&logo=github&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/VS_Code-070B12?style=flat-square&logo=visual-studio-code&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/Postman-070B12?style=flat-square&logo=postman&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/Netlify-070B12?style=flat-square&logo=netlify&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/Render-070B12?style=flat-square&logo=render&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/Cloudinary-070B12?style=flat-square&logo=cloudinary&logoColor=1677FF" />
-  <img src="https://img.shields.io/badge/Docker-070B12?style=flat-square&logo=docker&logoColor=1677FF" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </details>
 
 <br/>
@@ -133,14 +133,14 @@ A seamless platform to explore destinations, browse property listings, and book 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeevan400&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeevan400&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeevan400&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeevan400&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
 <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 
 <br/>
-<p align="center"><em>Code. Learn. Build. Repeat.</em></p>
+<p align="center"><em>Code. Learn. Build. Repeat. 🚀</em></p>
 
 </div>
