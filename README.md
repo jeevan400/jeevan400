@@ -133,11 +133,12 @@ A seamless platform to explore destinations, browse property listings, and book 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeevan400&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeevan400&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jeevan400&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan400&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan400&theme=radical&hide_border=true" alt="GitHub Streak" />
 <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 
 <br/>
