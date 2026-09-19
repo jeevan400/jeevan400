@@ -15,28 +15,19 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ### 👨‍💻 About Me
 - 💻 **MERN Stack Developer** with a passion for scalable architectures.
 - 🎓 **B.Tech Computer Engineering** graduate.
 - 🏢 Experienced in delivering real-world client solutions.
 - 🌐 Focused on clean UI and high-performance web apps.
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🚀 Current Focus
 - 🛠️ Building full-stack client web projects.
 - ⚡ Mastering real-time communication (Socket.io, WebRTC).
 - 🧠 Deep diving into Data Structures & Algorithms.
 - 🐳 Learning Docker & Containerization.
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -88,44 +79,32 @@
 
 ### 💼 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 #### 🛒 [GharTak — Multi-Vendor E-Commerce](https://ghar-tak-ebon.vercel.app/)
 Multi-vendor marketplace platform where sellers list products and buyers shop seamlessly.
 - **Tech Stack:** <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 - **Links:** [🌐 Live Demo](https://ghar-tak-ebon.vercel.app/)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 #### 📹 [Vidora — Real-Time Video Conferencing](https://vidora-frontend-1.onrender.com/)
 Real-time peer-to-peer video calling platform built for seamless communication.
 - **Tech Stack:** <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 - **Links:** [🌐 Live Demo](https://vidora-frontend-1.onrender.com/)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 #### ✈️ [TripNest — Travel Booking Platform](https://tripnest-mxpc.onrender.com/listings)
 A seamless platform to explore destinations, browse property listings, and book travel experiences.
 - **Tech Stack:** <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black" />
 - **Links:** [🌐 Live Demo](https://tripnest-mxpc.onrender.com/listings) | [📂 Repo](https://github.com/jeevan400/tripnest)
 
-</td>
-<td width="50%" valign="top">
+---
 
-#### 🏢 Professional Experience
+### 🏢 Professional Experience
+
 **Software Development Intern** @ *Sensation Software Solutions*
 - Translated Figma designs into pixel-accurate UIs for **Trace Venue**.
 - Integrated REST APIs and implemented real-time features using `Socket.io` & `WebRTC`.
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -133,13 +112,24 @@ A seamless platform to explore destinations, browse property listings, and book 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jeevan400&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan400&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/jeevan400">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jeevan400&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/jeevan400">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan400&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan400&theme=radical&hide_border=true" alt="GitHub Streak" />
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+<a href="https://github.com/jeevan400">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan400&theme=radical&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/jeevan400">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+</a>
 
 <br/>
 <p align="center"><em>Code. Learn. Build. Repeat. 🚀</em></p>
