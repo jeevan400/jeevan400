@@ -1,20 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Jeevan%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20WebRTC&descAlignY=55&descSize=20&descColor=a78bfa" width="100%" alt="Header" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="80" height="80" />
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Real-Time+Web+Applications;MERN+Stack+Developer;WebRTC+%26+Socket.io+Enthusiast;Multi-Vendor+E-Commerce+Builder;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=55&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=100&lines=HELLO,+I'M+JEEVAN+KUMAR+👋;WELCOME+TO+MY+PROFILE+🚀" alt="Typing SVG" />
 
-<!-- Badges -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+👨‍💻;MERN+%7C+WebRTC+Expert+🌐;Building+Real-Time+Digital+Experiences+⚡" alt="Typing SVG" />
+
+<br/>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeevan-kumar-057315264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://jeevancodes.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:jeevankumarsarkaghat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/jeevan400"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/jeevan-kumar-057315264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" /></a>
+  <a href="https://jeevancodes.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010" alt="Portfolio" /></a>
+  <a href="mailto:jeevankumarsarkaghat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" /></a>
+  <a href="https://github.com/jeevan400"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub" /></a>
 </p>
 
-<!-- Visitor Count -->
-<a href="https://github.com/jeevan400"><img src="https://komarev.com/ghpvc/?username=jeevan400&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+<br/>
+
+<a href="https://github.com/jeevan400"><img src="https://komarev.com/ghpvc/?username=jeevan400&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Divider Line" />
 
 </div>
 
