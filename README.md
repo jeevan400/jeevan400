@@ -1,15 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Jeevan%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20&descColor=F5F7FA" width="100%" alt="Header" />
+  <img src="./assets/jcode-hero.svg" width="100%" alt="JCode Developer Command Center" />
+
+  <br/>
 
   <p align="center">
-    <i>Architecting scalable backends and crafting real-time digital experiences 🚀</i>
-  </p>
-
-  <p align="center">
-    <a href="https://jeevancodes.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/jeevan-kumar-057315264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/jeevan400"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:jeevankumarsarkaghat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://jeevancodes.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D131D?style=for-the-badge&logo=vercel&logoColor=1677FF&labelColor=0E1622" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/jeevan-kumar-057315264/"><img src="https://img.shields.io/badge/LinkedIn-0D131D?style=for-the-badge&logo=linkedin&logoColor=1677FF&labelColor=0E1622" alt="LinkedIn" /></a>
+    <a href="https://github.com/jeevan400"><img src="https://img.shields.io/badge/GitHub-0D131D?style=for-the-badge&logo=github&logoColor=1677FF&labelColor=0E1622" alt="GitHub" /></a>
+    <a href="mailto:jeevankumarsarkaghat@gmail.com"><img src="https://img.shields.io/badge/Email-0D131D?style=for-the-badge&logo=gmail&logoColor=1677FF&labelColor=0E1622" alt="Email" /></a>
   </p>
 </div>
 

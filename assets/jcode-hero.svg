@@ -1,0 +1,229 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="100%">
+  <defs>
+    <!-- Background Grid -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1677FF" stroke-width="0.5" stroke-opacity="0.15"/>
+    </pattern>
+
+    <!-- Blue Glow -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Subtle Glow -->
+    <filter id="subtle-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Linear Gradient for Text -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B8EFF" />
+      <stop offset="50%" stop-color="#1677FF" />
+      <stop offset="100%" stop-color="#0B5ED7" />
+    </linearGradient>
+
+    <!-- Animated Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1677FF" stop-opacity="0.8">
+        <animate attributeName="stop-color" values="#1677FF;#0B5ED7;#3B8EFF;#1677FF" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#070B12" stop-opacity="0" />
+      <stop offset="100%" stop-color="#1677FF" stop-opacity="0.8">
+        <animate attributeName="stop-color" values="#3B8EFF;#1677FF;#0B5ED7;#3B8EFF" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="800" height="350" fill="#070B12" rx="12" />
+  
+  <!-- Animated Border -->
+  <rect width="798" height="348" x="1" y="1" fill="none" stroke="url(#borderGrad)" stroke-width="2" rx="12" />
+
+  <!-- Animated Grid -->
+  <g opacity="0.6">
+    <rect width="800" height="350" fill="url(#grid)" rx="12" />
+    <animate attributeName="opacity" values="0.4;0.7;0.4" dur="8s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Floating Particles (Symbols) -->
+  <g fill="#1677FF" opacity="0.3" font-family="monospace" font-size="14">
+    <!-- Particle 1 -->
+    <text x="50" y="300">&lt; /&gt;
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="6s" repeatCount="indefinite" />
+    </text>
+    <!-- Particle 2 -->
+    <text x="350" y="80">{ }
+      <animateTransform attributeName="transform" type="translate" values="0,0; 10,10; 0,0" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="7s" repeatCount="indefinite" />
+    </text>
+    <!-- Particle 3 -->
+    <text x="700" y="320">npm
+      <animateTransform attributeName="transform" type="translate" values="0,0; -10,-15; 0,0" dur="5s" repeatCount="indefinite" />
+    </text>
+    <!-- Particle 4 -->
+    <text x="100" y="50">git
+      <animateTransform attributeName="transform" type="translate" values="0,0; 5,15; 0,0" dur="8s" repeatCount="indefinite" />
+    </text>
+    <!-- Particle 5 -->
+    <text x="750" y="100">01
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,20; 0,0" dur="9s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <!-- LEFT SIDE: Profile Information -->
+  
+  <!-- JCode Badge -->
+  <g transform="translate(40, 50)">
+    <rect width="60" height="22" fill="#1677FF" fill-opacity="0.15" rx="4" stroke="#1677FF" stroke-width="1" />
+    <text x="30" y="15" fill="#3B8EFF" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1">JCODE</text>
+  </g>
+
+  <!-- Open to Opportunities Status -->
+  <g transform="translate(115, 50)">
+    <rect width="160" height="22" fill="#0D131D" rx="11" stroke="#0E1622" stroke-width="1" />
+    <circle cx="12" cy="11" r="4" fill="#1677FF" filter="url(#subtle-glow)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="24" y="15" fill="#A8B0BC" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="500">Open to Opportunities</text>
+  </g>
+
+  <!-- Name -->
+  <text x="40" y="115" fill="#F5F7FA" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="800" filter="url(#subtle-glow)">
+    Hi, I'm Jeevan Kumar
+  </text>
+
+  <!-- Role -->
+  <text x="40" y="155" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="600">
+    <tspan fill="url(#textGrad)">MERN Stack</tspan>
+    <tspan fill="#A8B0BC"> | Full-Stack Developer</tspan>
+  </text>
+
+  <!-- Animated Typing Subtitle -->
+  <g transform="translate(40, 195)">
+    <text font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#F5F7FA" font-weight="400">
+      Building modern, scalable and real-time digital experiences.
+    </text>
+  </g>
+
+  <g transform="translate(40, 225)">
+    <!-- String 1 -->
+    <text font-family="monospace" font-size="14" fill="#1677FF" opacity="0">
+      > React.js Developer_
+      <animate attributeName="opacity" values="1;1;0;0;0;0;0;0;0;0" dur="15s" repeatCount="indefinite" />
+    </text>
+    <!-- String 2 -->
+    <text font-family="monospace" font-size="14" fill="#1677FF" opacity="0">
+      > Node.js Architect_
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0;0;0;0" dur="15s" repeatCount="indefinite" />
+    </text>
+    <!-- String 3 -->
+    <text font-family="monospace" font-size="14" fill="#1677FF" opacity="0">
+      > Real-Time Application Builder_
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0;0" dur="15s" repeatCount="indefinite" />
+    </text>
+    <!-- String 4 -->
+    <text font-family="monospace" font-size="14" fill="#1677FF" opacity="0">
+      > UI/UX Enthusiast_
+      <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;0;0" dur="15s" repeatCount="indefinite" />
+    </text>
+    <!-- String 5 -->
+    <text font-family="monospace" font-size="14" fill="#1677FF" opacity="0">
+      > Full-Stack Developer_
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;1;1" dur="15s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <!-- Tech Strip -->
+  <g transform="translate(40, 290)">
+    <text font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#A8B0BC" font-weight="600" letter-spacing="1">CORE STACK</text>
+    
+    <g transform="translate(0, 15)" fill="#F5F7FA" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" opacity="0.8">
+      <rect x="0" y="0" width="55" height="24" fill="#0E1622" rx="4" stroke="#0D131D"/>
+      <text x="27.5" y="16" text-anchor="middle">React</text>
+      
+      <rect x="65" y="0" width="55" height="24" fill="#0E1622" rx="4" stroke="#0D131D"/>
+      <text x="92.5" y="16" text-anchor="middle">Node</text>
+
+      <rect x="130" y="0" width="65" height="24" fill="#0E1622" rx="4" stroke="#0D131D"/>
+      <text x="162.5" y="16" text-anchor="middle">Express</text>
+
+      <rect x="205" y="0" width="65" height="24" fill="#0E1622" rx="4" stroke="#0D131D"/>
+      <text x="237.5" y="16" text-anchor="middle">MongoDB</text>
+
+      <rect x="280" y="0" width="65" height="24" fill="#0E1622" rx="4" stroke="#0D131D"/>
+      <text x="312.5" y="16" text-anchor="middle">Socket.io</text>
+      
+      <!-- Subtle Floating Animation for the strip -->
+      <animateTransform attributeName="transform" type="translate" values="0,15; 0,13; 0,15" dur="4s" repeatCount="indefinite" />
+    </g>
+  </g>
+
+  <!-- RIGHT SIDE: Code Editor Window -->
+  <g transform="translate(480, 70)">
+    <!-- Editor Background -->
+    <rect width="280" height="210" fill="#0E1622" rx="8" stroke="#1677FF" stroke-width="1" stroke-opacity="0.4" filter="url(#glow)" />
+    <rect width="280" height="210" fill="#0E1622" rx="8" stroke="#1677FF" stroke-width="1" stroke-opacity="0.8" />
+    
+    <!-- Top Bar -->
+    <rect width="280" height="30" fill="#070B12" rx="8" />
+    <path d="M 0 30 L 280 30 L 280 22 Q 280 15 272 15 L 8 15 Q 0 15 0 22 Z" fill="#070B12" />
+    <rect width="280" height="4" y="26" fill="#070B12" />
+    <line x1="0" y1="30" x2="280" y2="30" stroke="#1677FF" stroke-width="1" stroke-opacity="0.3" />
+    
+    <!-- Traffic Lights -->
+    <circle cx="20" cy="15" r="4" fill="#FF5F56" />
+    <circle cx="35" cy="15" r="4" fill="#FFBD2E" />
+    <circle cx="50" cy="15" r="4" fill="#27C93F" />
+    
+    <!-- File Name -->
+    <text x="140" y="20" fill="#A8B0BC" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="500" text-anchor="middle">developer.js</text>
+
+    <!-- Code Content -->
+    <g transform="translate(20, 60)" font-family="monospace" font-size="13">
+      <!-- Line 1 -->
+      <text y="0">
+        <tspan fill="#3B8EFF">const</tspan>
+        <tspan fill="#F5F7FA"> developer </tspan>
+        <tspan fill="#3B8EFF">=</tspan>
+        <tspan fill="#F5F7FA"> {</tspan>
+      </text>
+      <!-- Line 2 -->
+      <text y="24">
+        <tspan fill="#A8B0BC">  name: </tspan>
+        <tspan fill="#1677FF">"Jeevan Kumar"</tspan>
+        <tspan fill="#F5F7FA">,</tspan>
+      </text>
+      <!-- Line 3 -->
+      <text y="48">
+        <tspan fill="#A8B0BC">  brand: </tspan>
+        <tspan fill="#1677FF">"JCode"</tspan>
+        <tspan fill="#F5F7FA">,</tspan>
+      </text>
+      <!-- Line 4 -->
+      <text y="72">
+        <tspan fill="#A8B0BC">  stack: </tspan>
+        <tspan fill="#1677FF">"MERN"</tspan>
+        <tspan fill="#F5F7FA">,</tspan>
+      </text>
+      <!-- Line 5 -->
+      <text y="96">
+        <tspan fill="#A8B0BC">  passion: </tspan>
+        <tspan fill="#1677FF">"Building"</tspan>
+      </text>
+      <!-- Line 6 -->
+      <text y="120">
+        <tspan fill="#F5F7FA">};</tspan>
+      </text>
+      
+      <!-- Blinking Cursor -->
+      <rect x="22" y="108" width="8" height="15" fill="#3B8EFF">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+
+</svg>
