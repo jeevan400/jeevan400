@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Jeevan Kumar 👋
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&pause=1000&color=1677FF&center=true&vCenter=true&width=800&height=80&lines=HI,+I'M+JEEVAN+KUMAR+👋" alt="Typing SVG" />
 
 ### MERN Stack Developer | Full-Stack Web Developer
 
-**Build. Learn. Solve. Improve.**
+**`Build.` `Learn.` `Solve.` `Improve.`**
 
 I build modern and reliable web applications using the MERN stack, with a focus on clean UI, scalable backend architecture, API integration, and real-world user experiences.
 
@@ -20,21 +20,22 @@ I build modern and reliable web applications using the MERN stack, with a focus 
 
 </div>
 
----
+<br/>
+<br/>
 
 ## 👨‍💻 About Me
 
-- 💻 **MERN Stack Developer** with a passion for full-stack development and responsive design.
-- 🎓 **B.Tech Computer Engineering graduate** with a strong foundation in software principles.
-- 🏢 Experienced in delivering real-world web development projects and client solutions.
-- 🌐 Focused on building user-friendly, scalable, and high-performance web applications.
-- 🌱 Dedicated to a continuous learning mindset and exploring new technologies.
+> - 💻 **MERN Stack Developer** with a passion for full-stack development and responsive design.
+> - 🎓 **B.Tech Computer Engineering graduate** with a strong foundation in software principles.
+> - 🏢 Experienced in delivering real-world web development projects and client solutions.
+> - 🌐 Focused on building user-friendly, scalable, and high-performance web applications.
+> - 🌱 Dedicated to a continuous learning mindset and exploring new technologies.
 
----
+<br/>
 
 ## 🚀 Currently Building & Learning
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -59,7 +60,7 @@ I build modern and reliable web applications using the MERN stack, with a focus 
 </tr>
 </table>
 
----
+<br/>
 
 ## ⚙️ Technical Skills
 
@@ -105,64 +106,72 @@ I build modern and reliable web applications using the MERN stack, with a focus 
 
 </div>
 
----
+<br/>
+<br/>
 
 ## 💼 Featured Projects
 
 ### 🛒 [GharTak — Multi-Vendor E-Commerce](https://ghar-tak-ebon.vercel.app/)
-A comprehensive multi-vendor marketplace platform where sellers list products and buyers shop seamlessly.
-- **Features:** Multi-vendor marketplace, Customer/Seller/Admin roles, Product management, Cart & Wishlist, Secure checkout & Orders, Reviews & Ratings, Admin analytics, Seller dashboard, JWT & Google authentication, Email OTP verification, Socket.io real-time notifications, Cloudinary image management.
-- **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `Socket.io` `Tailwind CSS` `JWT` `Cloudinary`
-- **Links:** [🌐 Live Demo](https://ghar-tak-ebon.vercel.app/)
+> **A comprehensive multi-vendor marketplace platform where sellers list products and buyers shop seamlessly.**
+>
+> 🔹 **Features:** Multi-vendor marketplace, Customer/Seller/Admin roles, Product management, Cart & Wishlist, Secure checkout & Orders, Reviews & Ratings, Admin analytics, Seller dashboard, JWT & Google authentication, Email OTP verification, Socket.io real-time notifications, Cloudinary image management.  
+> 🔹 **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `Socket.io` `Tailwind CSS` `JWT` `Cloudinary`  
+> 🔗 **Links:** [🌐 Live Demo](https://ghar-tak-ebon.vercel.app/)
 
 <br/>
 
 ### 📹 [Vidora — Real-Time Video Conferencing](https://vidora-frontend-1.onrender.com/)
-Real-time peer-to-peer video calling platform built for seamless communication.
-- **Features:** Video conferencing, Real-time audio/video communication, Instant shareable room links, Low-latency peer connections.
-- **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `WebRTC` `Socket.io` `Material UI`
-- **Links:** [🌐 Live Demo](https://vidora-frontend-1.onrender.com/)
+> **Real-time peer-to-peer video calling platform built for seamless communication.**
+>
+> 🔹 **Features:** Video conferencing, Real-time audio/video communication, Instant shareable room links, Low-latency peer connections.  
+> 🔹 **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `WebRTC` `Socket.io` `Material UI`  
+> 🔗 **Links:** [🌐 Live Demo](https://vidora-frontend-1.onrender.com/)
 
 <br/>
 
 ### ✈️ [TripNest — Travel Booking Platform](https://tripnest-mxpc.onrender.com/listings)
-A seamless platform to explore destinations, browse property listings, and book travel experiences.
-- **Features:** Accommodation listings, User authentication, Property management, Reviews and ratings, Search/browsing functionality, Responsive UI, Server-side rendering.
-- **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `EJS`
-- **Links:** [🌐 Live Demo](https://tripnest-mxpc.onrender.com/listings) | [📂 GitHub Repo](https://github.com/jeevan400/tripnest)
+> **A seamless platform to explore destinations, browse property listings, and book travel experiences.**
+>
+> 🔹 **Features:** Accommodation listings, User authentication, Property management, Reviews and ratings, Search/browsing functionality, Responsive UI, Server-side rendering.  
+> 🔹 **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `EJS`  
+> 🔗 **Links:** [🌐 Live Demo](https://tripnest-mxpc.onrender.com/listings) | [📂 GitHub Repo](https://github.com/jeevan400/tripnest)
 
----
+<br/>
+<br/>
 
 ## 🏢 Professional Experience
 
-**Software Development Intern** | *Sensation Software Solutions Pvt. Ltd.*
-- Contributed to the **Trace Venue** project, translating Figma designs into pixel-accurate, responsive UIs.
-- Integrated robust REST APIs for dynamic data rendering and seamless user experiences.
-- Identified, debugged, and resolved critical issues to improve application stability and performance.
-- **Technologies Used:** `React.js`, `JavaScript`, `Tailwind CSS`, `Socket.io`, `WebRTC`, `Git`, `GitHub`.
+> ### **Software Development Intern** | *Sensation Software Solutions Pvt. Ltd.*
+> - Contributed to the **Trace Venue** project, translating Figma designs into pixel-accurate, responsive UIs.
+> - Integrated robust REST APIs for dynamic data rendering and seamless user experiences.
+> - Identified, debugged, and resolved critical issues to improve application stability and performance.
+> - **Technologies Used:** `React.js`, `JavaScript`, `Tailwind CSS`, `Socket.io`, `WebRTC`, `Git`, `GitHub`.
 
----
+<br/>
 
 ## 🎓 Education
 
-**B.Tech in Computer Engineering**
-*Sant Baba Bhag Singh University*
-- **CGPA:** 8.44
-- **Focus:** Data Structures, Algorithms, Software Engineering, and Web Technologies.
+> ### **B.Tech in Computer Engineering** | *Sant Baba Bhag Singh University*
+> - **CGPA:** 8.44
+> - **Focus:** Data Structures, Algorithms, Software Engineering, and Web Technologies.
 
----
+<br/>
+<br/>
 
 ## 🧠 Development Philosophy
 
-### How I Build
+<p align="center">
+  <code>01 Understand</code> ➔ <code>02 Design</code> ➔ <code>03 Build</code> ➔ <code>04 Test</code> ➔ <code>05 Ship</code>
+</p>
 
-- **01 — Understand:** Understand the requirement and user problem.
-- **02 — Design:** Plan the UI, architecture, and data flow.
-- **03 — Build:** Develop reusable and maintainable components.
-- **04 — Test:** Debug, test, and improve functionality.
-- **05 — Ship:** Deploy and continuously improve.
+> **01 — Understand:** Understand the requirement and user problem.<br/>
+> **02 — Design:** Plan the UI, architecture, and data flow.<br/>
+> **03 — Build:** Develop reusable and maintainable components.<br/>
+> **04 — Test:** Debug, test, and improve functionality.<br/>
+> **05 — Ship:** Deploy and continuously improve.
 
----
+<br/>
+<br/>
 
 ## 📊 GitHub Activity & Stats
 
@@ -184,7 +193,8 @@ A seamless platform to explore destinations, browse property listings, and book 
 
 </div>
 
----
+<br/>
+<br/>
 
 ## 🤝 Let's Build Something Great
 
