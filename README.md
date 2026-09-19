@@ -94,7 +94,7 @@
 
 #### 🛒 [GharTak — Multi-Vendor E-Commerce](https://ghar-tak-ebon.vercel.app/)
 Multi-vendor marketplace platform where sellers list products and buyers shop seamlessly.
-- **Tech Stack:** `React.js` `Node.js` `MongoDB` `Socket.io` `Tailwind` `JWT`
+- **Tech Stack:** <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 - **Links:** [🌐 Live Demo](https://ghar-tak-ebon.vercel.app/)
 
 </td>
@@ -102,7 +102,7 @@ Multi-vendor marketplace platform where sellers list products and buyers shop se
 
 #### 📹 [Vidora — Real-Time Video Conferencing](https://vidora-frontend-1.onrender.com/)
 Real-time peer-to-peer video calling platform built for seamless communication.
-- **Tech Stack:** `React.js` `Node.js` `WebRTC` `Socket.io` `MongoDB`
+- **Tech Stack:** <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 - **Links:** [🌐 Live Demo](https://vidora-frontend-1.onrender.com/)
 
 </td>
@@ -112,7 +112,7 @@ Real-time peer-to-peer video calling platform built for seamless communication.
 
 #### ✈️ [TripNest — Travel Booking Platform](https://tripnest-mxpc.onrender.com/listings)
 A seamless platform to explore destinations, browse property listings, and book travel experiences.
-- **Tech Stack:** `HTML5` `JS` `Node.js` `Express.js` `MongoDB` `EJS`
+- **Tech Stack:** <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black" />
 - **Links:** [🌐 Live Demo](https://tripnest-mxpc.onrender.com/listings) | [📂 Repo](https://github.com/jeevan400/tripnest)
 
 </td>
